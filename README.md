@@ -2,7 +2,7 @@
 - 👀 I’m interested in self hosting open source software
 - 🌱 I’m currently learning gohugo
 - 💞️ I’m looking to collaborate on - not at the moment
-- 📫 How to reach me git+djhhejmo@gmail.com
+- 📫 How to reach me git+me@djh1960.uk
 
 <!---
 davidjohn1960/davidjohn1960 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
